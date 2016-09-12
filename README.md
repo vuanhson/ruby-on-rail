@@ -1,0 +1,2 @@
+This is Vu Anh Son - 20133371 - Hedspi 8A Ruby On Rail Repository
+<a href="https://docs.google.com/spreadsheets/d/1vhVXknoE8JNon4ondzEBsmFJHFTgQupaQBcsi5hyJvc/edit#gid=0">Google Doc Information System on web</a>
